@@ -1,2 +1,6 @@
 *.pickle
 *.csv
+*.png
+*.svg
+.DS_Store
+.ipynb_checkpoints
